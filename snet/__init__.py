@@ -1,0 +1,1 @@
+from .snet_model import SpectrumNet
